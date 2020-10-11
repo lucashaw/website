@@ -1,0 +1,16 @@
+
+html, body {
+  height:100%;
+  width:100%;
+  overscroll-behavior: auto;
+  margin: 0;
+  padding: 0;
+  color: red;
+  background-color:rgb(300,250,200);
+  display:grid;
+  align-items: center; 
+  justify-items: center;
+  
+}
+
+
